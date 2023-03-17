@@ -21,6 +21,7 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Number_of_movies__c</field>
+                
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
